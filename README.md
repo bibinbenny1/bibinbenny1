@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have completed my BCA from <br>Christ college of science and management malur,<br>currently i'm studying MCA in jain university Bangalore by online ,<br>i have a strong knowledge in python , git and github and Gen ai
+I have completed my BCA from Christ College of Science and Management, Malur. I am currently pursuing an MCA through online mode at Jain University, Bangalore. I have strong knowledge of Python, Git, GitHub, and Generative AI, and I am actively seeking job opportunities where I can apply and grow these skills.
 
 
 ## 🌐 Socials:
